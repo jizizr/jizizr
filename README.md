@@ -7,7 +7,7 @@
 ### Introduction
 
 - 👋 Hi, I’m Allen Jeo
-- 👀 I’m interested in **Go** / **Rust**
+- 👀 I’m interested in **Go** / **Rust** / **Python**
 - 🌱 I’m currently learning **Rust**  / **Go**
 
 ### Services
