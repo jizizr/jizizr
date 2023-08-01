@@ -22,4 +22,4 @@ My blog is powered by [xlog](https://xlog.app), but there are fewer updates due 
 
 ## Stats
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=jizizr&layout=compact&hide=javascript,html,c%2B%2B,CSS,CMake,Shell,Dockerfile&langs_count=4&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Trends](https://api.githubtrends.io/user/svg/jizizr/langs?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/jizizr/langs?time_range=one_year&include_private=True&theme=classic)
+[![GitHub Trends][https://api.githubtrends.io/user/svg/jizizr/langs?time_range=one_year&compact=True&theme=classic](https://api.githubtrends.io/user/svg/jizizr/langs?time_range=one_year&compact=True&theme=classic)
