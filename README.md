@@ -21,4 +21,4 @@
 My blog is powered by [xlog](https://xlog.app), but there are fewer updates due to lack of time, sorry!
 
 ## Stats
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=jizizr&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=jizizr&layout=compact&hide=C++&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
