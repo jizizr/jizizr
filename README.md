@@ -1,6 +1,7 @@
 # Hi!
 [![Blog](https://img.shields.io/badge/Blog-z__r.cc-%231D7EA7.svg?logo=wordpress&logoColor=white)](https://z-r.cc)
 [![GitHub](https://img.shields.io/badge/GitHub-AllenJeo-%2312100E.svg?logo=Github&logoColor=white)](https://github.com/jizizr)
+[![wakatime](https://wakatime.com/badge/user/aea9a87a-c003-4c19-b548-7d79cfc891a2.svg)](https://wakatime.com/@aea9a87a-c003-4c19-b548-7d79cfc891a2)
 
 ## About Me
 
@@ -21,4 +22,6 @@
 My blog is powered by [xlog](https://xlog.app), but there are fewer updates due to lack of time, sorry!
 
 ## Stats
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=jizizr&layout=compact&hide=javascript,html,c%2B%2B,CSS,CMake,Shell,Dockerfile&langs_count=4&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jizizr&hide=c%2B%2B&layout=compact&langs_count=8&card_width=445)](https://github.com/jizizr/github-readme-stats)
+
+[![GitHub Trends](https://api.githubtrends.io/user/svg/jizizr/langs?time_range=six_months&theme=classic)](https://api.githubtrends.io/user/svg/jizizr/langs?time_range=six_months&theme=classic)
