@@ -26,4 +26,4 @@ My blog is powered by [xlog](https://xlog.app), but there are fewer updates due 
 
 [![GitHub Trends](https://api.githubtrends.io/user/svg/jizizr/langs?time_range=one_year&theme=classic)](https://api.githubtrends.io/user/svg/jizizr/langs?time_range=one_year&theme=classic)
 
-[![Github Trends]](https://api.githubtrends.io/user/svg/jizizr/repos?time_range=one_year&theme=classic)](https://api.githubtrends.io/user/svg/jizizr/repos?time_range=one_year&theme=classic)
+[![Github Trends](https://api.githubtrends.io/user/svg/jizizr/repos?time_range=one_year&theme=classic)](https://api.githubtrends.io/user/svg/jizizr/repos?time_range=one_year&theme=classic)
