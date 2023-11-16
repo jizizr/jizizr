@@ -22,8 +22,7 @@
 My blog is powered by [xlog](https://xlog.app), but there are fewer updates due to lack of time, sorry!
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jizizr&hide=c%2B%2B&layout=compact&langs_count=8&card_width=445)](https://github.com/jizizr/github-readme-stats)
+[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=jizizr&hide=c%2B%2B&layout=compact&langs_count=8&card_width=445)](https://github.com/jizizr/github-readme-stats)
 
 [![GitHub Trends](https://api.githubtrends.io/user/svg/jizizr/langs?time_range=one_year&theme=classic)](https://api.githubtrends.io/user/svg/jizizr/langs?time_range=one_year&theme=classic)
-
 [![Github Trends](https://api.githubtrends.io/user/svg/jizizr/repos?time_range=one_year&theme=classic)](https://api.githubtrends.io/user/svg/jizizr/repos?time_range=one_year&theme=classic)
